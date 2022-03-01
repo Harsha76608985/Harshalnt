@@ -4,5 +4,6 @@ public class A{
      System.out.println("hello");
    int a=10;
 System.out.println(a);
+String s="MSD";
 }
 }
